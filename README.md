@@ -6,8 +6,8 @@ I am Daniyal Ahmed, people call me Dan, currently pursuing my bachelor's degree 
 
 [![Linkedin Badge](https://img.shields.io/badge/-whodanyalahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whodanyalahmed/)](https://www.linkedin.com/in/whodanyalahmed/)
 [![Instagram Badge](https://img.shields.io/badge/-whodanyalahmed-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/whodanyalahmed/)](https://instagram.com/whodanyalahmed)
-[![Youtube Badge](https://img.shields.io/badge/-whodanyalahmed-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/channel/UCAP2ECfCJ-PZ4MwusaT6MhQ)
-[![Gmail Badge](https://img.shields.io/badge/-daniahmedkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniahmedkhatri@gmail.com)](mailto:daniahmedkhatru@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-whodanyalahmed-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCAP2ECfCJ-PZ4MwusaT6MhQ)](https://www.youtube.com/channel/UCAP2ECfCJ-PZ4MwusaT6MhQ)
+[![Gmail Badge](https://img.shields.io/badge/-daniahmedkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniahmedkhatri@gmail.com)](mailto:daniahmedkhatri@gmail.com)
 
 ## ⚡ Technologies
 
