@@ -2,6 +2,8 @@
 
 I am Daniyal Ahmed, people call me Dan, currently pursuing my bachelor's degree majoring in computer science from [BBSUL](https://BBSUL.edu.pk/). I am a tech enthusiast ,Web Developer and Python Scripter. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 [![Linkedin Badge](https://img.shields.io/badge/-whodanyalahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whodanyalahmed/)](https://www.linkedin.com/in/whodanyalhmed/)
 [![Instagram Badge](https://img.shields.io/badge/-whodanyalahmed-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/whodanyalahmed/)](https://instagram.com/whodanyalahmed)
 [![Youtube Badge](https://img.shields.io/badge/-whodanyalahmed-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/channel/UCAP2ECfCJ-PZ4MwusaT6MhQ)
@@ -38,3 +40,5 @@ I am Daniyal Ahmed, people call me Dan, currently pursuing my bachelor's degree 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodanyalahmed&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=whodanyalahmed.whodanyalahmed)
+
+[![HitCount](http://hits.dwyl.com/whodanyalahmed/ukashasohail.svg)](http://hits.dwyl.com/whodanyalahmed/whodanyalahmed)
