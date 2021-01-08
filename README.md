@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hey! Great to having you here... <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Daniyal Ahmed, people call me Dan, currently pursuing my bachelor's degree majoring in computer science from [BBSUL](https://BBSUL.edu.pk/). I am a tech enthusiast ,Web Developer and Python Scripter. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
